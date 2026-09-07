@@ -1,0 +1,3 @@
+Creating this folder because i am starting the javascript concept again
+It is a long time that i have learned the javascript concept and now i am starting it again to refresh my knowledge and learn new things in javascript. This folder will contain all the notes, examples, and exercises related to javascript that I will be working on a daily basis.
+I will be updating this folder regularly with new content and resources that I find helpful in my learning journey. My goal is to become proficient in JavaScript and build a strong foundation for web development.
